@@ -1,0 +1,88 @@
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe.config
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.pdb
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.AssemblyReference.cache
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Form1.resources
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Properties.Resources.resources
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.YAYA.resources
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.GenerateResource.cache
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CoreCompileInputs.cache
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.exe
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.pdb
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x86\tesseract41.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x64\tesseract41.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\Tesseract.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.xml
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.xml
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.ARAÇ.resources
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CopyComplete
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\QRCoder.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.dll
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.xml
+C:\Users\MFB44\Desktop\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x86\tesseract41.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\x64\tesseract41.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe.config
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.pdb
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\QRCoder.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\Tesseract.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.dll
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.xml
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.AssemblyReference.cache
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.ARAÇ.resources
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Form1.resources
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Properties.Resources.resources
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.YAYA.resources
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.GenerateResource.cache
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CoreCompileInputs.cache
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CopyComplete
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.exe
+C:\Users\MFB44\Desktop\Yeni klasör (2)\OKUL\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.pdb
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\x86\tesseract41.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\x64\tesseract41.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe.config
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.exe
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\CMPE341 Project.pdb
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\QRCoder.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\Tesseract.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\zxing.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.dll
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.xml
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.xml
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\zxing.xml
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\bin\Debug\zxing.presentation.xml
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.AssemblyReference.cache
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.ARAÇ.resources
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Form1.resources
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.Properties.Resources.resources
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341_Project.YAYA.resources
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.GenerateResource.cache
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CoreCompileInputs.cache
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.csproj.CopyComplete
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.exe
+C:\Users\MFB\Desktop\---\OKUL\3.Sınıf\CMPE 341\CMPE341 Project\obj\Debug\CMPE341 Project.pdb
